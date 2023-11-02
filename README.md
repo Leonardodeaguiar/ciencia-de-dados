@@ -20,3 +20,8 @@
 
     - Exemplo: Exemplo de arvore de decisão para classificar bons pagadores para imprestimo
     - Heart desease: classificacão de pacientes com doença no coração com arvore de decisão
+
+  - SVM
+
+    - Exemplo: Exemplo de SVM para classificar bons pagadores para imprestimo
+    - Heart desease: classificacão de pacientes com doença no coração com SVM e seleção de atributos
